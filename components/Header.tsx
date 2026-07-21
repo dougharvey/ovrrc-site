@@ -10,20 +10,24 @@ const NAV = [
 
 export default function Header() {
   return (
-    <header className="bg-red-700 text-white">
-      <div className="max-w-5xl mx-auto px-4 py-6">
-        <p className="text-2xl font-bold tracking-tight">
-          Ouachita Valley Road Runners
-        </p>
-        <p className="text-red-100">Promoting Road Races in North Louisiana</p>
+    <header className="bg-gray-950 text-white sticky top-0 z-50 shadow-lg shadow-black/20">
+      <div className="max-w-6xl mx-auto px-4 py-5 flex items-center justify-between border-b border-white/10">
+        <Link href="/" className="group">
+          <p className="text-xl sm:text-2xl font-black uppercase tracking-tight group-hover:text-red-500 transition-colors">
+            Ouachita Valley Road Runners
+          </p>
+          <p className="text-xs sm:text-sm text-red-500 font-semibold uppercase tracking-widest">
+            Promoting Road Races in North Louisiana
+          </p>
+        </Link>
       </div>
       <nav className="bg-red-800">
-        <div className="max-w-5xl mx-auto px-4 flex flex-wrap gap-1">
+        <div className="max-w-6xl mx-auto px-4 flex flex-wrap">
           {NAV.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="px-4 py-3 text-sm font-medium hover:bg-red-900 transition-colors"
+              className="px-4 py-3 text-sm font-bold uppercase tracking-wide hover:bg-red-900 transition-colors"
             >
               {item.label}
             </Link>
