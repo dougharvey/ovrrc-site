@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const NAV = [
   { href: "/", label: "Home" },
@@ -11,7 +12,14 @@ const NAV = [
 export default function Header() {
   return (
     <header className="bg-gray-950 text-white sticky top-0 z-50 shadow-lg shadow-black/20">
-      <div className="max-w-6xl mx-auto px-4 py-5 flex items-center justify-between border-b border-white/10">
+      <div className="max-w-6xl mx-auto px-4 py-4 flex items-center gap-4 border-b border-white/10">
+        <Image
+          src="/logo-white.png"
+          alt="Ouachita Valley Road Runners logo"
+          width={56}
+          height={56}
+          className="shrink-0"
+        />
         <Link href="/" className="group">
           <p className="text-xl sm:text-2xl font-black uppercase tracking-tight group-hover:text-red-500 transition-colors">
             Ouachita Valley Road Runners

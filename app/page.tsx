@@ -1,3 +1,4 @@
+import Image from "next/image";
 import AngledButton from "@/components/AngledButton";
 import { CURRENT_YEAR, getCurrentYearEvents } from "@/data/results";
 
@@ -20,6 +21,14 @@ export default function Home() {
       {/* Hero */}
       <section className="relative left-1/2 -translate-x-1/2 w-screen -mt-8 mb-12 bg-gradient-to-br from-gray-950 via-gray-900 to-red-900 text-white">
         <div className="max-w-5xl mx-auto px-4 py-16 sm:py-24 text-center">
+          <Image
+            src="/logo-white.png"
+            alt="Ouachita Valley Road Runners logo"
+            width={120}
+            height={120}
+            className="mx-auto mb-6"
+            priority
+          />
           <p className="text-red-500 font-bold uppercase tracking-[0.2em] mb-3">
             Since 1979
           </p>
