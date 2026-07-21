@@ -1,0 +1,3544 @@
+{
+  "currentYear": 2026,
+  "years": {
+    "2005": [
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/3/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Bah-Humbug-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Ultra Trail Runs",
+        "date": "11/26/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park 5K",
+        "date": "10/1/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-BITP-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run",
+        "date": "5/14/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Faith-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Healthy Kids Day 5K",
+        "date": "5/21/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Healthy-Kids-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Heart of Forest Trail Run",
+        "date": "4/23/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Heart-of-Forest-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jesus the Good Shepherd School Dad's Club 5K",
+        "date": "4/9/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-JGS-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Kappa Delta Shamrock 5K Trail Run",
+        "date": "2/26/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-KD-Shamrock-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/5/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Monroe-Half-Marathon.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure",
+        "date": "9/10/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-RFTC-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Rock 'N Run 3 Miler",
+        "date": "6/11/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Rock-N-Run-3-Miler.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 2 Read 5K",
+        "date": "5/16/2005",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2005-Run-2-Read-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/12/2005",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2005-University-Mile.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "event": "Bah Humbug 5K/10K",
+        "date": "12/2/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Bah-Humbug-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/25/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/7/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-BITP-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run",
+        "date": "5/20/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Faith-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Heart of the Forest Trail Run",
+        "date": "4/22/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Heart-of-Forest-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "HIV/AIDS Awareness 5K",
+        "date": "3/11/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-HIV-Awareness-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jingle Bell 10K/5K",
+        "date": "12/9/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Jingle-Bell-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/4/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Monroe-Half-Marathon.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Nutrition Awareness 5K",
+        "date": "2/25/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Monroe-Half-Marathon.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/6/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Race-Judicata-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure",
+        "date": "9/9/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-RFTC-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Rock N Run 3 Miler",
+        "date": "6/10/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Rock-N-Run-3-Miler.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "4/8/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-RTTC-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 4 Fun 5K/10K",
+        "date": "10/28/2006",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2006-Run-4-Fun-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "9/27/2006",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2006-University-Mile.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "event": "Bah Humbug 5K/10K",
+        "date": "12/1/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Bah-Humbug-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/24/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/6/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-BITP-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run",
+        "date": "5/19/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Faith-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "JGS Family Fun Day 5K",
+        "date": "4/29/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-JGS-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/3/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Monroe-Half-Marathon.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/5/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Race-Judicata-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Resolution Run 5K",
+        "date": "1/6/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Resolution-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/17/2007",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2007-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/28/2007",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2007-Watermelon-Festival-5K.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "2/16/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-ASR-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/6/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Bah-Humbug-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/29/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/4/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-BITP-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run",
+        "date": "5/17/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Faith-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Healthy Kids Day 5K",
+        "date": "4/12/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Healthy-Kids-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Heart of Forest Trail Run",
+        "date": "4/19/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Heart-of-Forest-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "JGS Dad's Club 5K",
+        "date": "3/9/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Heart-of-Forest-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "KD Shamrock Run",
+        "date": "2/23/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-KD-Shamrock-5K.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/15/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Monroe-Half-Marathon.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/28/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Peach-Festival-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/3/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Race-Judicata-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Resolution Run 5K",
+        "date": "1/5/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Resolution-Run-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure",
+        "date": "9/13/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-RFTC-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Group Winners",
+            "href": "/results/2013/08/2008-RFTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "3/15/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-RTTC-5K-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run for the Health of It",
+        "date": "3/29/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Run-for-the-Health-of-It-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/15/2008",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2008-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/26/2008",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2008-Watermelon-Festival-5K.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "2/7/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-ASR-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-ASR-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/5/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Bah-Humbug-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Bah-Humbug-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/28/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/3/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-BITP-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-BITP-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run 5K",
+        "date": "5/16/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Faith-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Faith-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Healthy Kids Day 5K",
+        "date": "4/25/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Healthy-Kids-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Healthy-Kids-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jackson Parish Relay for Life 5K",
+        "date": "10/17/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Jackson-Parish-Relay-for-Life-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "JGS Family Run 5K",
+        "date": "3/8/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-JGS-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-JGS-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jogging for Jake",
+        "date": "6/20/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Jogging-for-Jake-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Jogging-for-Jake-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Kappa Delta Shamrock Run",
+        "date": "3/14/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-KD-Shamrock-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-KD-Shamrock-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/7/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Monroe-Half-Marathon.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Monroe-Half-Marathon-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/27/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Peach-Festival-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Peach-Festival-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Post Holiday Blues 10K",
+        "date": "1/10/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Post-Holiday-Blues-10K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/2/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Race-Judicata-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure",
+        "date": "9/19/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-RFTC-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-RFTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "River Run 5K",
+        "date": "10/10/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-River-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-River-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "4/4/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-RTTC-5K-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-RTTC-5K-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run for the Health It 5K",
+        "date": "3/28/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Run-for-the-Health-of-It-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Run-for-the-Health-of-It-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Shelby's Wish 5K",
+        "date": "6/13/2009",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Shelbys-Wish-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Shelbys-Wish-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "9/30/2009",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2009-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "Date",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2009-Watermelon-Festival-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2009-Watermelon-Festival-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "2/6/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-ASR-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-ASR-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/4/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Bah-Humbug-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Bah-Humbug-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Ultra Trail Runs",
+        "date": "11/28/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Faith Run",
+        "date": "5/15/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Faith-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Faith-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Healthy Kids Day 5K",
+        "date": "4/10/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Healthy-Kids-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Healthy-Kids-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jackson Parish ACS 5K",
+        "date": "11/16/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Jackson-PArish-ACS-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Jackson-PArish-ACS-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Jogging for Jake",
+        "date": "6/19/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Jogging-for-Jake-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Jogging-for-Jake-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Kappa Delta Shamrock 5K",
+        "date": "3/20/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-KD-Shamrock-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-KD-Shamrock-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Labor Day River Run 5K",
+        "date": "9/6/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Labor-Day-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Labor-Day-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/6/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Monroe-Half-Marathon.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Monroe-Half-Marathon-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/26/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Peach-Festival-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Peach-Festival-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/1/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Race-Judicata-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Race-Judicata-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Resolution Run 5K",
+        "date": "1/16/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Resolution-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Resolution-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure 5K",
+        "date": "9/25/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-RFTC-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-RFTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "River Run 5K",
+        "date": "10/9/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-River-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-River-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 10K/5K",
+        "date": "3/13/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-RTTC-5K-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-RTTC-5K-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 4 My Father 4 Miler",
+        "date": "4/17/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Run-4-My-Father-4-Miler.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Run-4-My-Father-4-Miler-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 4 Kids Sake",
+        "date": "2/27/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Run-for-Kids-Sake-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Run-for-Kids-Sake-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run for the Roses 5K",
+        "date": "4/24/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Run-for-the-Roses-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Run-for-the-Roses-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Shelby's Wish 5K",
+        "date": "6/12/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Shelbys-Wish-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Shelbys-Wish-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Sparta 5K",
+        "date": "11/13/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Sparta-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Sparta-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Triple Play 5K/10K",
+        "date": "10/23/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Triple-Play-1K-5K-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Triple-Play-1K-5K-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/27/2010",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2010-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/31/2010",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2010-Watermelon-Festival-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2010-Watermelon-Festival-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "event": "Ashley St. Romain 5K",
+        "date": "2/5/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-ASR-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-ASR-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/3/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Bah-Humbug-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Bah-Humbug-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Ultra Trail Runs",
+        "date": "11/26/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Big-Dog-Trail-Run.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/1/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-BITP-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-BITP-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/5/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Monroe-Half-Marathon.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Monroe-Half-Marathon-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/25/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Peach-Festival-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Peach-Festival-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/7/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Race-Judicata-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Race-Judicata-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure",
+        "date": "Date",
+        "links": [
+          {
+            "label": "Top 300 Finishers",
+            "href": "/results/2013/08/2011-RFTC-5K-Top-300.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-RFTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "River Run 5K",
+        "date": "10/8/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-River-Run-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-River-Run-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 10K/5K",
+        "date": "4/6/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-RTTC-5K-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-RTTC-5K-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run for Kids Sake",
+        "date": "5/21/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Run-for-Kids-Sake-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Run-for-Kids-Sake-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Shelby's Wish 5K",
+        "date": "9/17/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Shelbys-Wish-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/08/2011-Shelbys-Wish-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/26/11",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/08/2011-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Warhawk Dash",
+        "date": "11/3/2011",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/08/2011-Warhawk-Dash.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "3/17/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-ASR-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-ASR-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/01/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Bah-Humbug-5K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/6/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-BITP-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-BITP-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/24/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Big-Dog.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Geauxfit Catfish Classic 5K",
+        "date": "4/7/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Catfish-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Catfish-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run",
+        "date": "5/19/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Faith-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Faith-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/3/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-MHM-Overall.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-MHM-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/23/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Peach-Festival-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Peach-Festival-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure 5K",
+        "date": "9/29/2012",
+        "links": [
+          {
+            "label": "Top 300",
+            "href": "/results/2013/07/2012-RFTC-5K-Top-300.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-RFTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/5/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Race-Judicata-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Race-Judicata-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "River Run 5K",
+        "date": "10/13/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-River-Run-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-River-Run-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "3/31/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-RTTC-5K-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-RTTC-5K-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Shelby's Wish 5K",
+        "date": "6/9/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Shelbys-Wish-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Shelbys-Wish-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/24/2012",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/07/2012-University-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/28/2012",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2012-Watermelon-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2012-Watermelon-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "4/13/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-ASR-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-ASR-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/7/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Bah-Humbug_All-Sheet1.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Bah-Humbug_AG-Sheet1.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park 5k",
+        "date": "10/6/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Bark-in-the-Park-2013_All.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Bark-in-the-Park-2013_AG.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Ultra Trail Runs",
+        "date": "11/30/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Big-Dog.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Donut Dash 5K",
+        "date": "9/7/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-Donut-Dash-5K_Overall.pdf",
+            "external": false
+          },
+          {
+            "label": "Top 15 Males & Females",
+            "href": "/results/2013/07/Donut-Dash-2013_Top-15.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Geauxfit Catfish Classic 5K",
+        "date": "4/6/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-Catfish-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-Catfish-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run",
+        "date": "5/18/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-Faith-Run-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-Faith-Run-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Monroe Half Marathon",
+        "date": "11/2/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/Monroe-Half-Marathon-2013_All.htm",
+            "external": true
+          },
+          {
+            "label": "Age Groups",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/Monroe-Half-Marathon-2013_AG.htm",
+            "external": true
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/4/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-Race-Judicata-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-Race-Judicata-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Peach Festival 5K",
+        "date": "6/22/2013",
+        "links": [
+          {
+            "label": "Overall",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/06/Peach-Festival-5K-2013_All.htm",
+            "external": true
+          },
+          {
+            "label": "Age Groups",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/06/Peach-Festival-5K-2013_AG.htm",
+            "external": true
+          }
+        ]
+      },
+      {
+        "event": "Race for the Cure 5K",
+        "date": "9/28/2013",
+        "links": [
+          {
+            "label": "All Timed Finishers",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/09/Komen-2013_All.htm",
+            "external": true
+          },
+          {
+            "label": "Age Groups",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/09/Komen-2013_AG.htm",
+            "external": true
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K",
+        "date": "3/23/2013",
+        "links": [
+          {
+            "label": "Overall",
+            "href": "/results/2013/07/2013-RTTC-5K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-RTTC-5K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 10K",
+        "date": "3/23/2013",
+        "links": [
+          {
+            "label": "Overall",
+            "href": "/results/2013/07/2013-RTTC-10K.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-RTTC-10K-Age-Groups.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Scout Strong 5K",
+        "date": "9/14/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Scout-Strong-2013-5k_All.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Scout-Strong-2013-5k_AG.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Shelby's Wish 5K",
+        "date": "6/08/2013",
+        "links": [
+          {
+            "label": "Overall",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/06/Shelbys-Wish-2013_All.htm",
+            "external": true
+          },
+          {
+            "label": "Age Groups",
+            "href": "http://www.fitrightracing.com/wp-content/uploads/2013/06/Shelbys-Wish-2013_AG.htm",
+            "external": true
+          }
+        ]
+      },
+      {
+        "event": "Skeeter Run",
+        "date": "3/2/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/2013-Skeeter-Run-5K.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/2013-Skeeter-Run-5K-Age-Groups.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/23/2013",
+        "links": [
+          {
+            "label": "Award Winners",
+            "href": "/results/2013/10/University-Mile-2013_Award-Winners.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "07/27/2013",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Watermelon-Festival-2013_AG.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Watermelon-Festival-2013_All.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "2/22/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Sterlington-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Sterlington-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/7/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/BahHumbug.Overall.Results.14.pdf",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/BahHumbug.Results.14.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/4/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Bark-in-the-Park-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Bark-in-the-Park-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/29/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Big-Dog-2014.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Catfish Festival 5K",
+        "date": "4/7/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Catfish-5K-2014-Results.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run 5K",
+        "date": "5/17/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Lakeshore-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age\u00a0Groups",
+            "href": "/results/2013/07/Lakeshore-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "4/12/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Run-to-the-Cross-List.html",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Run-to-the-Cross-Awards.html",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/3/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Judicata-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Judicata-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "9/24/2014",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/2013/07/ULM-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/26/2014",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Watermelon-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Watermelon-Awards.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2015": [
+      {
+        "event": "Ashley St. Romain Memorial 5K",
+        "date": "2/14/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Sterlington-List1.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Sterlington-Awards1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/5/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Bah-Humbug-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/Bah-Humbug-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park 5K",
+        "date": "10/3/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Bark-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/Bark-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/27/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Big-Dog-2015.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Catfish Festival 5K",
+        "date": "4/4/2015",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/2015/04/Catfish-5K-2015-Race-Results.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run",
+        "date": "5/16/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Lakeshore-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/Lakeshore-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "9/30/2015",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/ULM-Mile-2015.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/2/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Judicata-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/Judicata-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "3/28/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2013/07/Run-to-the-Cross-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/2013/07/Run-to-the-Cross-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/25/2015",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Watermelon-List.htm",
+            "external": false
+          },
+          {
+            "label": "Age Groups",
+            "href": "/results/Watermelon-Awards.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2016": [
+      {
+        "event": "Bah Humbug 5K",
+        "date": "12/3/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Bah-Humbug-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bah-Humbug-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/1/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Bark-in-the-Park-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bark-in-the-Park-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/26/2016",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Big-Dog-LIst.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Catfish Festival 5K",
+        "date": "4/2/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Catfish-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Catfish-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run",
+        "date": "5/14/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Lakeshore-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Lakeshore-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace 5K",
+        "date": "4/9/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Race-2-Grace-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/7/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Judicata-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Judicata-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race-WALKer Run 4K",
+        "date": "4/16/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Walker-4K-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Walker-4K.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "3/19/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Run-to-the-Cross-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/12/2016",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/ULM-Mile-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon 5K",
+        "date": "7/30/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Watermelon-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Watermelon-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Runs",
+        "date": "12/31/2016",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Glenwood-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Glenwood-List.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2017": [
+      {
+        "event": "Bah Humbug",
+        "date": "12/3/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Bah-Humbug-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bah-Humbug-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Bark in the Park",
+        "date": "10/7/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Bark-in-the-Park-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bark-in-the-Park-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/25/2017",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Big-Dog-2017.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Catfish Festival 5K",
+        "date": "4/1/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Catfish-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Catfish-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Chemin A Haut State Park 4 Mile Trail Run",
+        "date": "10/14/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Chemin-A-Haut-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-A-Haut-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run 5K",
+        "date": "5/20/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Lakeshore-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Lakeshore-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace 5K/10K",
+        "date": "4/22/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Race-2-Grace-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List.html",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata 5K",
+        "date": "5/6/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Judicata-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Judicata-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Resolution Run",
+        "date": "12/31/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Glenwood-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Glenwood-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross 5K/10K",
+        "date": "4/8/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Run-to-the-Cross-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/11/2017",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/ULM-Mile.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/29/2017",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Watermelon-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Watermelon-List-2.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2018": [
+      {
+        "event": "Bark in the Park 5K",
+        "date": "10/7/2018",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Bark-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bark-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Big Dog Ultra Trail Runs",
+        "date": "11/24/2018",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Big-Dog-2018.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Chemin-A-Haut State Park Trail Run",
+        "date": "10/13/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Chemin-a-Haut-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Lakeshore Faith Run 5K",
+        "date": "5/19/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Lakeshore-Awards-3.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Lakeshore-List-3.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's Run-St. Vincent 5K",
+        "date": "1/29/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Poor-Mans-5K-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-5K-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/5/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Judicata-Awards-3.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Judicata-List-3.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race to Grace",
+        "date": "4/14/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Race-2-Grace-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "3/24/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Run-to-the-Cross-Awards-2.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "St. Patrick\u2019s Day 5K",
+        "date": "3/17/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/St.-Patricks-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/St.-Patricks-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "University Mile",
+        "date": "10/17/18",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/ULM-Awards.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Watermelon Festival 5K",
+        "date": "7/28/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Watermelon-Awards-3.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Watermelon-List-3.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "12/31/18",
+        "links": [
+          {
+            "label": "Age Groups",
+            "href": "/results/Glenwood-Awards-3.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Glenwood-List-3.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2019": [
+      {
+        "event": "Big Dog Trail Runs",
+        "date": "11/30/19",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Big-Dog-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Chemin-A-Haut Trial Run",
+        "date": "10/19/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Fort Beauregard 5K Run",
+        "date": "6/8/19",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Fort-Beauregard-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's Run-St. Vincent 5K",
+        "date": "1/26/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-List.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace 5K",
+        "date": "3/23/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-4.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-3.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race Judicata",
+        "date": "5/4/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Judicata-Awards-4.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Judicata-List-4.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "4/13/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-3.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-3.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "ULM University Mile",
+        "date": "10/30/19",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/ULM-Mile-Awards-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "12/28/2019",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Wellness-Resolution-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Wellness-Resolution-List.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2020": [
+      {
+        "event": "Chemin-A-Haut Trail Run",
+        "date": "10/17/20",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-a-Haut-Awards-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List-2.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's Run",
+        "date": "2/1/20",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-Awards-2021.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-List-2021.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "7/11/20",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-4.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-4.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2021": [
+      {
+        "event": "Chemin-A-Haut Trail Run",
+        "date": "10/16/2021",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2021.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List-2021.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's 5K",
+        "date": "4/24/2021",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-Awards-2021-1.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-List-2021-1.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace 5K",
+        "date": "5/15/2021",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-2021.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-2021.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 2 The Cross",
+        "date": "6/12/2021",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-2021.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2021.htm",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "1/2/2021",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Resolution-Run-Awards.htm",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Resolution-Run-List.htm",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2022": [
+      {
+        "event": "Bayou Jamb 5K",
+        "date": "8/26/22",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Bayou-Jamb-Awards.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Bayou-Jamb-List.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Chemin-A-Haut Trail Run",
+        "date": "10/15/22",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2022.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List-2022.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Ouachita Green Run for the Recycling 5K/10K",
+        "date": "9/10/22",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Ouachita-Green-Awards.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Ouachita-Green-List.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace",
+        "date": "4/2/2022",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-2022.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-2022.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "4/9/2022",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-2022.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2022.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "1/8/2022",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Resolution-Run-Awards-2023.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Resolution-Run-List-2023.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2023": [
+      {
+        "event": "Chemin-A-Haut 5K Run",
+        "date": "10/21/23",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2023.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-a-Haut-List-2023.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's Run 5K",
+        "date": "2/11/23",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-Awards-2023.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-List-2023.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace",
+        "date": "4/15/23",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-2023.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-2023.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "4/1/23",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-2023.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2023.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "1/10/23",
+        "links": [
+          {
+            "label": "Awards",
+            "href": "/results/Resolution-Run-Awards-2024.pdf",
+            "external": false
+          },
+          {
+            "label": "All Finishers",
+            "href": "/results/Resolution-Run-List-2024.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2024": [
+      {
+        "event": "Chemin-A-Haut",
+        "date": "10/19/24",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-A-Haut-List-2024-.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2024.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace",
+        "date": "5/4/24",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-List-2024.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-2024.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run to the Cross",
+        "date": "3/23/24",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2024.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-2024.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "St. Vincent DePaul Poor Man's Run",
+        "date": "3/2/24",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-List-2024.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-Awards-2024.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "1/6/24",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Resolution-Run-List-2024-1.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Wellness-Resolution-Run-Awards-2024.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2025": [
+      {
+        "event": "Chemin-A-Haut Trail Run",
+        "date": "10/21/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-A-Haut-List-2025-.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2025-.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Mind Over Miles",
+        "date": "3/20/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Mind-Over-Miles-2-Mile-Run-2025.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Mind-Over-Miles-Awards-2025-.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's 5K",
+        "date": "3/8/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Poor-Mans-5K-List.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Poor-Mans-5K-Awards.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Race 2 Grace",
+        "date": "4/5/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Race-2-Grace-2025-.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Race-2-Grace-Awards-2025.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Run 2 The Cross",
+        "date": "4/12/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Run-to-the-Cross-List-2025-Sheet1.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Run-to-the-Cross-Awards-2025-Sheet1.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Wellness Resolution Run",
+        "date": "1/5/25",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Resolution-Run-List-2025-.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Resolution-Run-2025-Awards.pdf",
+            "external": false
+          }
+        ]
+      }
+    ],
+    "2026": [
+      {
+        "event": "Mind Over Miles",
+        "date": "3/19/26",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Mind-Over-Miles-2026-Sheet1.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Mind-Over-Miles-Awards-2026-Sheet1.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
+        "event": "Poor Man's 5K",
+        "date": "2/28/26",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/2026-Poor-Mans-5K-List-Sheet1.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/2026-Poor-Mans-5K-Awards-Sheet1.pdf",
+            "external": false
+          }
+        ]
+      }
+    ]
+  }
+}
