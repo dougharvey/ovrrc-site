@@ -1,16 +1,7 @@
 import Image from "next/image";
 import AngledButton from "@/components/AngledButton";
 import { CURRENT_YEAR, getCurrentYearEvents } from "@/data/results";
-
-const SCHEDULE = [
-  {
-    date: "10/17/26",
-    event: "Chemin-A-Haut Trail Run",
-    href: "https://runsignup.com/Race/LA/Bastrop/CheminAHaut4MileRunand1MileWalk",
-    city: "Bastrop",
-    state: "LA",
-  },
-];
+import { SCHEDULE } from "@/data/schedule";
 
 export default function Home() {
   const nextRace = SCHEDULE[0];
@@ -56,6 +47,15 @@ export default function Home() {
               </AngledButton>
             </div>
           )}
+
+          <p className="mt-6">
+            <a
+              href="/schedule"
+              className="text-red-400 font-bold uppercase text-sm tracking-wide hover:text-red-300 hover:underline"
+            >
+              View Full Schedule &rarr;
+            </a>
+          </p>
         </div>
       </section>
 
