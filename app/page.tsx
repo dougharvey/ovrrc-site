@@ -4,10 +4,10 @@ import { CURRENT_YEAR, getCurrentYearEvents } from "@/data/results";
 
 const SCHEDULE = [
   {
-    date: "2/28/26",
-    event: "Poor Man's Run",
-    href: "https://runsignup.com/Race/LA/Monroe/StVincentDePaulCommunityPharmacyPoorManSRun",
-    city: "Monroe",
+    date: "10/17/26",
+    event: "Chemin-A-Haut Trail Run",
+    href: "https://runsignup.com/Race/LA/Bastrop/CheminAHaut4MileRunand1MileWalk",
+    city: "Bastrop",
     state: "LA",
   },
 ];
