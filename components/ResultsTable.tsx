@@ -12,9 +12,8 @@ export default function ResultsTable({ events }: { events: ResultEvent[] }) {
           <tr>
             <th className="px-4 py-3">Event</th>
             <th className="px-4 py-3">Date</th>
-            <th className="px-4 py-3" colSpan={2}>
-              Results
-            </th>
+            <th className="px-4 py-3">Results</th>
+            <th className="px-4 py-3"></th>
           </tr>
         </thead>
         <tbody>
@@ -22,23 +21,31 @@ export default function ResultsTable({ events }: { events: ResultEvent[] }) {
             <tr key={`${e.event}-${i}`} className="border-t border-gray-200 align-top">
               <td className="px-4 py-3 font-medium">{e.event}</td>
               <td className="px-4 py-3 whitespace-nowrap">{e.date}</td>
-              <td className="px-4 py-3" colSpan={2}>
-                <div className="flex flex-wrap gap-x-4 gap-y-1">
-                  {e.links.length === 0 && (
-                    <span className="text-gray-400">—</span>
-                  )}
-                  {e.links.map((l, j) => (
-                    <a
-                      key={j}
-                      href={l.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-red-700 hover:underline"
-                    >
-                      {l.label}
-                    </a>
-                  ))}
-                </div>
+              <td className="px-4 py-3">
+                {e.links[0] ? (
+                  <a
+                    href={e.links[0].href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-red-700 hover:underline"
+                  >
+                    {e.links[0].label}
+                  </a>
+                ) : (
+                  <span className="text-gray-400">—</span>
+                )}
+              </td>
+              <td className="px-4 py-3">
+                {e.links[1] && (
+                  <a
+                    href={e.links[1].href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-red-700 hover:underline"
+                  >
+                    {e.links[1].label}
+                  </a>
+                )}
               </td>
             </tr>
           ))}
