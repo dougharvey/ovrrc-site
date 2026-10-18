@@ -3508,6 +3508,22 @@
     ],
     "2026": [
       {
+        "event": "Chemin-A-Haut Trail Run",
+        "date": "10/17/26",
+        "links": [
+          {
+            "label": "All Finishers",
+            "href": "/results/Chemin-A-Haut-List-2026-Sheet1.pdf",
+            "external": false
+          },
+          {
+            "label": "Awards",
+            "href": "/results/Chemin-A-Haut-Awards-2026-Sheet1.pdf",
+            "external": false
+          }
+        ]
+      },
+      {
         "event": "Mind Over Miles",
         "date": "3/19/26",
         "links": [
