@@ -6,8 +6,8 @@ export default function ResultsTable({ events }: { events: ResultEvent[] }) {
   }
 
   return (
-    <div className="overflow-x-auto rounded-lg border border-gray-200">
-      <table className="w-full text-left">
+    <div className="w-full max-w-full min-w-0 overflow-x-auto rounded-lg border border-gray-200">
+      <table className="w-full min-w-0 text-left">
         <thead className="bg-gray-100 text-sm text-gray-600">
           <tr>
             <th className="px-4 py-3">Event</th>
@@ -19,7 +19,7 @@ export default function ResultsTable({ events }: { events: ResultEvent[] }) {
         <tbody>
           {events.map((e, i) => (
             <tr key={`${e.event}-${i}`} className="border-t border-gray-200 align-top">
-              <td className="px-4 py-3 font-medium">{e.event}</td>
+              <td className="px-4 py-3 font-medium break-words">{e.event}</td>
               <td className="px-4 py-3 whitespace-nowrap">{e.date}</td>
               <td className="px-4 py-3">
                 {e.links[0] ? (

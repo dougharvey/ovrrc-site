@@ -1,6 +1,9 @@
+import Container from "@/components/Container";
+
 export default function AboutPage() {
   return (
-    <div className="prose max-w-none">
+    <Container className="py-8">
+      <div className="prose max-w-none">
       <h1 className="text-2xl font-bold text-gray-900 mb-4">
         Who are the Ouachita Valley Road Runners?
       </h1>
@@ -58,5 +61,6 @@ export default function AboutPage() {
         • Your membership includes your whole family!
       </p>
     </div>
+    </Container>
   );
 }
