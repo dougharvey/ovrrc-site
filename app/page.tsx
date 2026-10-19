@@ -1,5 +1,6 @@
 import Image from "next/image";
 import AngledButton from "@/components/AngledButton";
+import Container from "@/components/Container";
 import { CURRENT_YEAR, getCurrentYearEvents } from "@/data/results";
 import { SCHEDULE } from "@/data/schedule";
 
@@ -9,9 +10,9 @@ export default function Home() {
 
   return (
     <div>
-      {/* Hero */}
-      <section className="relative left-1/2 -translate-x-1/2 w-screen -mt-8 mb-12 bg-gradient-to-br from-gray-950 via-gray-900 to-red-900 text-white">
-        <div className="max-w-5xl mx-auto px-4 py-16 sm:py-24 text-center">
+      {/* Hero — full viewport width via layout (no 100vw breakout) */}
+      <section className="mb-12 bg-gradient-to-br from-gray-950 via-gray-900 to-red-900 text-white">
+        <Container className="py-16 sm:py-24 text-center">
           <Image
             src="/logo-white.png"
             alt="Ouachita Valley Road Runners logo"
@@ -56,72 +57,74 @@ export default function Home() {
               View Full Schedule &rarr;
             </a>
           </p>
-        </div>
+        </Container>
       </section>
 
-      {/* Recent results */}
-      {recentResults.length > 0 && (
-        <section className="mb-16">
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-black uppercase tracking-tight text-gray-900">
-              {CURRENT_YEAR} Results
-            </h2>
-            <a
-              href="/results"
-              className="text-red-700 font-bold uppercase text-sm tracking-wide hover:underline"
-            >
-              Full Archive &rarr;
-            </a>
-          </div>
-          <div className="grid sm:grid-cols-2 gap-4">
-            {recentResults.map((e, i) => (
-              <div
-                key={i}
-                className="border border-gray-200 rounded-lg p-5 hover:border-red-300 hover:shadow-md transition-all"
+      <Container className="pb-8">
+        {/* Recent results */}
+        {recentResults.length > 0 && (
+          <section className="mb-16">
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="text-2xl font-black uppercase tracking-tight text-gray-900">
+                {CURRENT_YEAR} Results
+              </h2>
+              <a
+                href="/results"
+                className="text-red-700 font-bold uppercase text-sm tracking-wide hover:underline"
               >
-                <p className="text-xs font-bold uppercase tracking-widest text-red-700 mb-1">
-                  {e.date}
-                </p>
-                <p className="text-lg font-bold text-gray-900 mb-3">
-                  {e.event}
-                </p>
-                <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-                  {e.links.map((l, j) => (
-                    <a
-                      key={j}
-                      href={l.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-red-700 font-semibold hover:underline"
-                    >
-                      {l.label}
-                    </a>
-                  ))}
+                Full Archive &rarr;
+              </a>
+            </div>
+            <div className="grid sm:grid-cols-2 gap-4">
+              {recentResults.map((e, i) => (
+                <div
+                  key={i}
+                  className="border border-gray-200 rounded-lg p-5 hover:border-red-300 hover:shadow-md transition-all"
+                >
+                  <p className="text-xs font-bold uppercase tracking-widest text-red-700 mb-1">
+                    {e.date}
+                  </p>
+                  <p className="text-lg font-bold text-gray-900 mb-3">
+                    {e.event}
+                  </p>
+                  <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+                    {e.links.map((l, j) => (
+                      <a
+                        key={j}
+                        href={l.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-red-700 font-semibold hover:underline"
+                      >
+                        {l.label}
+                      </a>
+                    ))}
+                  </div>
                 </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+              ))}
+            </div>
+          </section>
+        )}
 
-      {/* Quick links */}
-      <section className="grid sm:grid-cols-3 gap-4 mb-8">
-        <QuickLink
-          title="Results Archive"
-          desc="Browse race results all the way back to 2005."
-          href="/results"
-        />
-        <QuickLink
-          title="Running Groups"
-          desc="Find a group run near you, any day of the week."
-          href="/running-groups"
-        />
-        <QuickLink
-          title="Photos"
-          desc="Relive past races through our photo galleries."
-          href="/photos"
-        />
-      </section>
+        {/* Quick links */}
+        <section className="grid sm:grid-cols-3 gap-4 mb-8">
+          <QuickLink
+            title="Results Archive"
+            desc="Browse race results all the way back to 2005."
+            href="/results"
+          />
+          <QuickLink
+            title="Running Groups"
+            desc="Find a group run near you, any day of the week."
+            href="/running-groups"
+          />
+          <QuickLink
+            title="Photos"
+            desc="Relive past races through our photo galleries."
+            href="/photos"
+          />
+        </section>
+      </Container>
     </div>
   );
 }

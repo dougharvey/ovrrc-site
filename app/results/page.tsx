@@ -1,13 +1,15 @@
 import AngledButton from "@/components/AngledButton";
 import ResultsTable from "@/components/ResultsTable";
 import { ARCHIVE_YEARS, CURRENT_YEAR, getCurrentYearEvents } from "@/data/results";
+import Container from "@/components/Container";
 
 export default function ResultsPage() {
   const currentEvents = getCurrentYearEvents();
   const years = [...ARCHIVE_YEARS].sort((a, b) => b - a);
 
   return (
-    <div className="space-y-10">
+    <Container className="py-8">
+      <div className="space-y-10">
       <div>
         <h1 className="text-2xl font-bold text-gray-900 mb-6">
           {CURRENT_YEAR} Results
@@ -34,5 +36,6 @@ export default function ResultsPage() {
         </div>
       </div>
     </div>
+    </Container>
   );
 }

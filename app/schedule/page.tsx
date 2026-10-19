@@ -1,5 +1,6 @@
 import AngledButton from "@/components/AngledButton";
 import { SCHEDULE } from "@/data/schedule";
+import Container from "@/components/Container";
 
 export const metadata = {
   title: "Schedule – Ouachita Valley Road Runners",
@@ -7,7 +8,8 @@ export const metadata = {
 
 export default function SchedulePage() {
   return (
-    <div>
+    <Container className="py-8">
+      <div>
       <h1 className="text-2xl font-black uppercase tracking-tight text-gray-900 mb-6">
         OVRRC Schedule
       </h1>
@@ -44,5 +46,6 @@ export default function SchedulePage() {
         </div>
       )}
     </div>
+    </Container>
   );
 }

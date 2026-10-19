@@ -1,9 +1,11 @@
 import Image from "next/image";
 import { galleries } from "@/data/galleries";
+import Container from "@/components/Container";
 
 export default function PhotosPage() {
   return (
-    <div className="space-y-12">
+    <Container className="py-8">
+      <div className="space-y-12">
       <h1 className="text-2xl font-bold text-gray-900">Photos</h1>
       {galleries.map((gallery) => (
         <section key={gallery.slug}>
@@ -30,5 +32,6 @@ export default function PhotosPage() {
         </section>
       ))}
     </div>
+    </Container>
   );
 }

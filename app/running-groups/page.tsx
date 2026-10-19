@@ -1,8 +1,10 @@
 import GroupScheduleTable from "@/components/GroupScheduleTable";
+import Container from "@/components/Container";
 
 export default function RunningGroupsPage() {
   return (
-    <div className="space-y-10">
+    <Container className="py-8">
+      <div className="space-y-10">
       <h1 className="text-2xl font-bold text-gray-900">Running Groups</h1>
 
       <section>
@@ -130,5 +132,6 @@ export default function RunningGroupsPage() {
         />
       </section>
     </div>
+    </Container>
   );
 }

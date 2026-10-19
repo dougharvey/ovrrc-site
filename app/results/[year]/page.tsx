@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import ResultsTable from "@/components/ResultsTable";
 import { ARCHIVE_YEARS, getEventsForYear } from "@/data/results";
+import Container from "@/components/Container";
 
 export function generateStaticParams() {
   return ARCHIVE_YEARS.map((year) => ({ year: String(year) }));
@@ -19,11 +20,13 @@ export default async function YearResultsPage({
   }
 
   return (
-    <div>
+    <Container className="py-8">
+      <div>
       <h1 className="text-2xl font-bold text-gray-900 mb-6">
         {yearNum} Results
       </h1>
       <ResultsTable events={getEventsForYear(yearNum)} />
     </div>
+    </Container>
   );
 }
